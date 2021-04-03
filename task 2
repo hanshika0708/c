@@ -1,3 +1,0 @@
-fn = input("input the filename : ")
-ex = fn.split(".")
-print("extension of the file is : "+ex[-1])
